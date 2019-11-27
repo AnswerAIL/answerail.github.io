@@ -7,12 +7,12 @@
 
 # Site settings
 title:       Type
-email:       ''
+email:       'answer_ljm@163.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'https://answerail.github.io/' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/AnswerAIL'
 instagram:   ''
 facebook:    ''
 
