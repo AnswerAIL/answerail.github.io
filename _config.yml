@@ -294,11 +294,11 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
-#links_layout: inline
-#links:
-#  Title: http://example.com/
+links_title: answer
+links_layout: block
+links_layout: inline
+links:
+  Title: https://blog.csdn.net/u010979642
 
 
 # ---------------------------------------------------------------
@@ -610,7 +610,7 @@ local_search:
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}
 # Alias: {% extlink text url "title" %}
-exturl: false
+exturl: true
 
 
 #! ---------------------------------------------------------------
