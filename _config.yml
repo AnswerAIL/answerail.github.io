@@ -91,7 +91,7 @@ rss: false
 since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: bar-chart
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -239,7 +239,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  CSDN: weibo
+  CSDN: file-text
   E-Mail: envelope
 
 
