@@ -49,8 +49,10 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
-  theme: 主题
+  # "由 %s 强力驱动"
+  powered: "Powered by %s"
+  # 主题
+  theme: Theme
 
 counter:
   tag_cloud:
