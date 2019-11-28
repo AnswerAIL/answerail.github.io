@@ -215,6 +215,13 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
+social:
+  GitHub: https://github.com/AnswerAIL
+#  Twitter: your-twitter-url
+#  Weibo: your-weibo-url
+#  DouBan: your-douban-url
+#  ZhiHu: your-zhihu-url
+  Csdn: https://blog.csdn.net/u010979642
 
 
 # Social Links Icons
