@@ -1,5 +1,11 @@
-_site
-.sass-cache
-_drafts
+_site/*
+_theme_packages/*
+
+Thumbs.db
 .DS_Store
-.jekyll-metadata
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+/vendor
