@@ -225,6 +225,7 @@ social:
 #  ZhiHu: your-zhihu-url
   CSDN: https://blog.csdn.net/u010979642
   E-Mail: mailto:answer_ljm@163.com
+  Npm: https://www.npmjs.com/package/myjs-common
 
 
 # Social Links Icons
@@ -241,6 +242,7 @@ social_icons:
   Weibo: weibo
   CSDN: file-text
   E-Mail: envelope
+  Npm: fa-jsfiddle
 
 
 # Sidebar Avatar
