@@ -91,7 +91,7 @@ rss: false
 since: 2015
 
 # icon between year and author @Footer
-authoricon: star
+authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -294,11 +294,11 @@ sidebar:
 
 
 # Blog rolls
-links_title: Links
-links_layout: block
-links_layout: inline
-links:
-  Title: http://example.com/
+#links_title: Links
+#links_layout: block
+#links_layout: inline
+#links:
+#  Title: http://example.com/
 
 
 # ---------------------------------------------------------------
