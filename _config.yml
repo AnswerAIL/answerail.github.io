@@ -6,6 +6,7 @@
 # Site
 title: Jaemon Blog
 subtitle: 纸上得来终觉浅, 绝知此事要躬行。
+signature: 纸上得来终觉浅, 绝知此事要躬行。
 description: Answer.AI.L
 author: Jaemon
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -87,7 +88,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2015
 
 # icon between year and author @Footer
 authoricon: heart
@@ -221,7 +222,8 @@ social:
 #  Weibo: your-weibo-url
 #  DouBan: your-douban-url
 #  ZhiHu: your-zhihu-url
-  Csdn: https://blog.csdn.net/u010979642
+  CSDN: https://blog.csdn.net/u010979642
+  E-Mail: answer_ljm@163.com
 
 
 # Social Links Icons
@@ -361,7 +363,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night bright
 
 
 # ---------------------------------------------------------------
