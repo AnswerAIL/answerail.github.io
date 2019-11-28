@@ -91,7 +91,7 @@ rss: false
 since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: star
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -214,6 +214,7 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
+# http://www.fontawesome.com.cn/faicons/
 #social:
   #LinkLabel: Link
 social:
@@ -239,6 +240,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   CSDN: weibo
+  E-Mail: envelope
 
 
 # Sidebar Avatar
