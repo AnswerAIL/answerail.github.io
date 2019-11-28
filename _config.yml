@@ -223,7 +223,7 @@ social:
 #  DouBan: your-douban-url
 #  ZhiHu: your-zhihu-url
   CSDN: https://blog.csdn.net/u010979642
-  E-Mail: answer_ljm@163.com
+  E-Mail: mailto:answer_ljm@163.com
 
 
 # Social Links Icons
@@ -238,6 +238,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  CSDN: weibo
 
 
 # Sidebar Avatar
@@ -359,7 +360,7 @@ custom_logo:
   image:
 
 
-# Code Highlight theme
+# 代码高亮显示主题-Code Highlight theme
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
