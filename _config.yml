@@ -294,11 +294,12 @@ sidebar:
 
 
 # Blog rolls
-links_title: answer
+links_title: 友情链接
 links_layout: block
 links_layout: inline
 links:
-  Title: https://blog.csdn.net/u010979642
+  faicons: http://www.fontawesome.com.cn/faicons/
+  csdn: https://blog.csdn.net/u010979642
 
 
 # ---------------------------------------------------------------
