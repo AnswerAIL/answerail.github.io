@@ -383,6 +383,7 @@ han: true
 # Baidu Analytics ID
 #baidu_analytics:
 
+# 第三方社会化评论系统: 多说和 Disqus
 # Duoshuo ShortName
 #duoshuo_shortname:
 
