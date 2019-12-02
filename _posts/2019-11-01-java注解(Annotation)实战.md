@@ -4,7 +4,7 @@ title: java注解(Annotation)实战
 tags: [开发笔记]
 ---
 
-# Java 预定义注解
+## Java 预定义注解
 
  Java 支持一组预先定义好的注解。下面介绍了Java Core 中提供的注解 
 
@@ -36,7 +36,7 @@ tags: [开发笔记]
 
 
 
-# Repeatable 实战
+## Repeatable 实战
 定义一个可重复修饰 class 的注解
 
 ```java
@@ -102,6 +102,6 @@ L.A
 
 
 
-# 参考网址
+## 参考网址
 
 - [x] [Java 8 注解探秘](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651485369&idx=1&sn=d8ec5bf115b25874704335e09496c2cf&chksm=bd2518c68a5291d0f40a955478410432f99abc2386152b8abb230b4adc100b3f26f8719ef89b&scene=0&xtrack=1&key=62dc85f35374a3100299f0b2636f96e097c8335673b592aa0fa21999a1c3a838dcff063dea377b3ec3fd3b2c65445f7696964467b2eeadc410d6bb9c8561bc8394bfd6e8894d3b72649309384c2ecea0&ascene=1&uin=MTQ2NzE4ODQ2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=Ggba1Wee%2BgCpTUxAetZPOen0UEMIW29c3WapA0htyZObG9cBGRNvmcuy0Tsy5PgQ)
