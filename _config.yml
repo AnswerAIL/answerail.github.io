@@ -219,6 +219,7 @@ font:
   #LinkLabel: Link
 social:
   GitHub: https://github.com/AnswerAIL
+  Gitee: https://gitee.com/jaemon
 #  Twitter: your-twitter-url
 #  Weibo: your-weibo-url
 #  DouBan: your-douban-url
@@ -238,11 +239,12 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
+  Gitee: git
   Twitter: twitter
   Weibo: weibo
   CSDN: file-text
   E-Mail: envelope
-  Npm: fa-jsfiddle
+  Npm: jsfiddle
 
 
 # Sidebar Avatar
